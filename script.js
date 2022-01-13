@@ -1,7 +1,7 @@
 const countdownDisplay = document.getElementById("countdown-display")
 
 function renderCountdown(){
-    const christmas = new Date("Dec 25, 2021 00:00:00").getTime();
+    const christmas = new Date("Dec 25, 2022 00:00:00").getTime();
     
     let timer = setInterval(function () {
     let myDate = new Date().getTime();   
