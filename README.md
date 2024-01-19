@@ -6,7 +6,7 @@
 
 ## Features
 
--  Countdown Timer displays time remiang until christmas
+-  Countdown Timer displays time remaining until christmas
 -  use of Date object in JS
 -  use of Math.random() in Javascript
 
